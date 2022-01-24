@@ -2,6 +2,8 @@
 
 > *Matter.js* is a JavaScript 2D rigid body physics engine for the web
 
+试图让它兼容小程序
+
 [brm.io/matter-js](https://brm.io/matter-js/)
 
 [Demos](#demos) ・ [Gallery](#gallery) ・ [Features](#features) ・ [Plugins](#plugins) ・ [Install](#install) ・ [Usage](#usage) ・ [Examples](#examples) ・ [Docs](#documentation) ・ [Wiki](https://github.com/liabru/matter-js/wiki) ・ [References](#references) ・ [License](#license)
